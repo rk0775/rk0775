@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rk0775?tab=repositories](https://github.com/rk0775?tab=repositories)
 
-- 💬 Ask me about **java, hibernate**
+- 💬 Ask me about **java, hibernate, springboot**
 
 - 📫 How to reach me **rohitkawade0775@gmail.com**
 
